@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1332-remove-palindromic-subsequences](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Binary Search
 |  |
 | ------- |
