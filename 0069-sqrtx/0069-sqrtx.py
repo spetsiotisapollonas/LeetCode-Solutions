@@ -14,8 +14,6 @@ class Solution:
                 high=mid-1
             else:
                 low=mid+1
-                if abs(mid*mid-x)<best:
-                    best=abs(mid*mid-x)
-                    ans=mid
+                ans=mid
         return ans       
         
