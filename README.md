@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0904-fruit-into-baskets](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
