@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
