@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1332-remove-palindromic-subsequences](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -185,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/spetsiotisapollonas/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
