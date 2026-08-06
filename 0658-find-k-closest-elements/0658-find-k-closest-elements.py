@@ -2,11 +2,11 @@ class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
         arr.sort()
         ans=[0]*k
-        best=[]
+        best=[0]*k
         position=-1
         for i in range(k):
             ans[i]=arr[i]
-            best.append(abs(arr[i]-x))
+            best[i]=abs(arr[i]-x)
         for i in range(k,len(arr)):
             if abs(arr[i]-x)<max(best):
                 position=best.index(max(best))
